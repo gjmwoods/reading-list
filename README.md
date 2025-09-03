@@ -6,6 +6,8 @@ A list of articles I've read and some thoughts about them
 | Read | Paper Title    | Thoughts |
 | -------- | ------- | ---- |
 | :black_square_button: | Looking for new aticles... Suggestions welcome!  | ... |
+| :black_square_button: | [PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory](https://zhangyingqiang.com/paper/PolarDB_Multi_Primary.pdf)    | ... |
+|  :black_square_button: | [VCrypt: Leveraging Vectorized and Compressed Execution for Client-side Encryption](https://www.openproceedings.org/2025/conf/edbt/paper-347.pdf)    | ... |
 | :white_check_mark: | [The Cambridge Report on Database Research](https://arxiv.org/abs/2504.11259)    | Sounds like many interesting topics we're discussed. Was great to see dedicated time to "Human-Centric Data Issues".  These should be treated as just as important as the techinical challenges around data management. |
 | :white_check_mark: | [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://vldb.org/pvldb/vol18/p1962-kim.pdf)    | Feels like an underrated part of DBMSs which they highlight by observing the lack of research around database extensions. The more extensible a database is the more you empower users to solve their niche problems and give opportunities to grow your DBMS with the help of the community.  |
 | :white_check_mark: | [What Goes Around Comes Around... And Around](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)    | Such a great overview of all the different kinds of DBMS and their strengths and weaknesses. Looking forward to the 2044 paper. |
